@@ -1,4 +1,4 @@
-package com.example.sisterslabakademiuygulamadersi2
+package com.example.sisterslabakademiuygulamadersi2.soru1
 
 import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
