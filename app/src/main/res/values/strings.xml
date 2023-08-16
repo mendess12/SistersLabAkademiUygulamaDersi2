@@ -8,4 +8,6 @@
     <string name="director">Yönetmen</string>
     <string name="point">Puan: 0</string>
     <string name="saveList">Listeye Ekle</string>
+    <string name="lesson_name">Ders adini giriniz</string>
+    <string name="lesson_color">Renk giriniz</string>
 </resources>

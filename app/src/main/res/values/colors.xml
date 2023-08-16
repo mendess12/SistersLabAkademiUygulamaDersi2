@@ -2,4 +2,10 @@
 <resources>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    <color name="kirmizi">#E91E63</color>
+    <color name="sari">#FFEB3B</color>
+    <color name="yesil">#8BC34A</color>
+    <color name="mavi">#2196F3</color>
+    <color name="mor">#9C27B0</color>
+    <color name="turuncu">#FF9800</color>
 </resources>
