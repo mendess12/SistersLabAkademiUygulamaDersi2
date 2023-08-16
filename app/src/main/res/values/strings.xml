@@ -4,4 +4,8 @@
     <string name="button">İkinci Sayfaya Git</string>
     <string name="text2">Gelen metin</string>
     <string name="hobby">Futbol Oynamak</string>
+    <string name="tag">Başlık</string>
+    <string name="director">Yönetmen</string>
+    <string name="point">Puan: 0</string>
+    <string name="saveList">Listeye Ekle</string>
 </resources>
